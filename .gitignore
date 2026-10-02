@@ -1,0 +1,8 @@
+data/external/*
+!data/external/README.md
+data/datasets/
+third_party/watermark/*
+!third_party/watermark/README.md
+__pycache__/
+*.asv
+slprj/
